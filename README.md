@@ -9,7 +9,7 @@
 ## [Contact Your Government](../../../Contact-Your-Government)
 <img src="../../../Contact-Your-Government/blob/main/SocialPreviewImage.jpg" width="200"/>
 
-## [2023 Elections](../../../2024-Elections)
+## [2024 Elections](../../../2024-Elections)
 <img src="../../../2024-Elections/blob/main/SocialPreviewImage.jpg" width="200"/>
 
 ## [Youth Engagement](../../../Youth-Engagement)

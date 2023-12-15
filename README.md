@@ -26,7 +26,8 @@
 
 # Online Petitions
 1. https://www.codepink.org/cnngaza   Hold CNN Accountable for Enabling Genocide!
-2. Hold CNN Accountable for Enabling Genocide! United Nations
+2.https://www.un.org/en/contact-us-0   United Nations
+3. https://act.jewishvoiceforpeace.org/a/israelis-demand-ceasefire   Israelis call for an immediate end to the attack on Gaza
 
 
 

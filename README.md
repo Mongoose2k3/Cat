@@ -24,6 +24,10 @@
 ## [Online Tools and Tricks </br><img src="../../../Tools/blob/main/SocialPreviewImage.jpg" width="200"/>](../../../Tools)
 
 
+# Online Petitions
+1. https://www.codepink.org/cnngaza   Hold CNN Accountable for Enabling Genocide!
+
+
 
 
 

@@ -24,10 +24,13 @@
 ## [Online Tools and Tricks </br><img src="../../../Tools/blob/main/SocialPreviewImage.jpg" width="200"/>](../../../Tools)
 
 
+
 # Online Petitions
 1. https://www.codepink.org/cnngaza   Hold CNN Accountable for Enabling Genocide!
-2.https://www.un.org/en/contact-us-0   United Nations
+2. https://www.un.org/en/contact-us-0   United Nations
 3. https://act.jewishvoiceforpeace.org/a/israelis-demand-ceasefire   Israelis call for an immediate end to the attack on Gaza
+4. https://www.jewishvoiceforpeace.org/resource/ceasefire/  President Biden call a ceasefire now.
+5. 
 
 
 

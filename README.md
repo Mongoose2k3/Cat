@@ -1,7 +1,7 @@
 # Cat
 
-## [Families Support](../../../Families)
-<img src="../../../Families/blob/main/SocialPreviewImage.jpg" width="200"/>
+## [Families Support](../../../Families
+<img src="../../../Families/blob/main/SocialPreviewImage.jpg" width="200"/>)
 
 ## [Boycott Explained](../../../Boycott)
 <img src="../../../Boycott/blob/main/SocialPreviewImage.jpg" width="200"/>

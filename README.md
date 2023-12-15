@@ -26,6 +26,7 @@
 
 # Online Petitions
 1. https://www.codepink.org/cnngaza   Hold CNN Accountable for Enabling Genocide!
+2. Hold CNN Accountable for Enabling Genocide! United Nations
 
 
 
